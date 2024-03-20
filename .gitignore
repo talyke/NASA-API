@@ -1,0 +1,7 @@
+.env
+.idea
+/node-modules
+node-modules
+/.idea/
+.vscode
+/.vscode/
